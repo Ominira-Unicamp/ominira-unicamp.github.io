@@ -5,3 +5,4 @@ Aqui está uma lista de membros que fazem parte da comunidade. Muito obrigado a 
 * [Goliasvictor (José Victor)](users/goliasvictor.md)
 * [Gvinfinity (Gabriel Soares)](users/gvinfinity.md)
 * [RafaelMeir4 (Rafael Meira)](users/rafaelmeir4.md)
+* [IsaacFritsch (Isaac Fritsch)](users/isaacfritsch.md)
